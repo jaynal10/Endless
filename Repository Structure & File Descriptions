@@ -1,0 +1,17 @@
+# 🌌 Endless
+**Endless** is a generative art and creative coding project exploring the aesthetics of infinity — loops, fractals, and flows that never repeat.  
+
+## ✨ Features
+- Infinite generative patterns
+- Real-time rendering with user control
+- Modular system for new “infinite” experiments
+
+## 🛠️ Built With
+- JavaScript (p5.js)
+- WebGL
+- Framer Motion
+
+## 🚀 Run It
+```bash
+npm install
+npm run dev
