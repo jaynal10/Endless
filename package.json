@@ -1,0 +1,13 @@
+{
+  "name": "endless",
+  "version": "1.0.0",
+  "description": "Infinite generative art experiment.",
+  "main": "sketch.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "p5": "^1.9.0"
+  }
+}
